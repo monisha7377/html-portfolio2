@@ -1,0 +1,104 @@
+.container1{
+    color: white;
+    background-color:lightsalmon;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 100%;
+}
+h1{
+
+    font-family: "Playwrite NZ", cursive;
+  font-weight: <weight>;
+  padding-bottom:30px;
+}
+p.con {
+    font-family: "Bitter", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 2rem;
+  padding-bottom:30px;
+}
+.container2{
+    background-color:aliceblue;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#me{
+    border-radius: 50%;
+}
+h2{
+    font-weight: bolder;
+    color: rgb(6, 35, 176);
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5 rem;
+    padding-bottom: 10px;
+}
+p.my{
+    font-family: "Merriweather", serif;
+    font-size:25px;
+}
+#her{
+    text-align: center;
+}
+.container3{
+    text-align:center;
+    font-family: "Merriweather", serif;
+    font-size:20px;
+    display: flex;
+    height: 100%;
+}
+.p1{
+    display: flex;
+    justify-content: flex-start;
+    text-align: left;
+    padding: 20px;
+}
+.p2{
+    display: flex;
+    justify-content: flex-end;
+    text-align: left;
+}
+.container-pro{
+    
+    background-color: aliceblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.table-project{
+    display: grid;
+    grid-template-columns: 4fr 4fr 4fr;
+    grid-template-rows: auto;
+    height: auto;
+    gap: 3rem;
+    margin: 40px;
+}
+.table{
+    display: grid;
+    grid-template-rows: 50px auto 100px;
+    border: 5px solid lightgrey ;
+    border-radius: 10px;
+    align-items: center;
+    padding: 30px;
+    font-family: "Open Sans", sans-serif;
+    color: blueviolet;
+    font-weight: 200;
+}
+.contact-me{
+    background-color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.btn{
+    background-color: aquamarine;
+}
+.bottom-container{
+    padding: 50px 0 20px;
+    background-color: rgb(190, 190, 214);
+}
